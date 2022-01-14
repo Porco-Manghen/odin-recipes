@@ -1,0 +1,23 @@
+.title {
+    background-color:rgb(253, 171, 104);
+    text-align: center;
+    color: white;
+    outline: 2px dotted black;
+}
+
+.image.top {
+    background-color:rgb(29, 25, 25);
+    text-align: center;
+}
+
+.image.top.body {
+    background-color:rgb(29, 25, 25);
+    text-align: center;
+    outline: 2px dashed orange;
+}
+
+.text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
